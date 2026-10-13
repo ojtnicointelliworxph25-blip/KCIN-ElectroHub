@@ -41,7 +41,7 @@ const products = [
     name: 'Washing Machine',
     category: 'Laundry',
     price: 18490,
-    image: 'images/washing-machine.svg',
+    image: 'images/washing-machine.jpg',
     imageAlt: 'Front-loading washing machine',
     description: 'Front-load washer with multiple wash programs for everyday laundry.',
     details: ['Capacity: about 8 kg (sample)', 'Multiple wash programs (sample)', 'Quiet motor (sample)']
@@ -51,7 +51,7 @@ const products = [
     name: 'Smart Television',
     category: 'Entertainment',
     price: 15990,
-    image: 'images/smart-tv.svg',
+    image: 'images/smart-tv.jpg',
     imageAlt: 'Flat-screen smart television',
     description: '43-inch smart TV with built-in apps and sharp 4K picture.',
     details: ['Screen: 43 inches, 4K (sample)', 'Built-in Wi-Fi and streaming apps (sample)', '3 HDMI ports (sample)']
@@ -61,7 +61,7 @@ const products = [
     name: 'Air Conditioner',
     category: 'Cooling',
     price: 28990,
-    image: 'images/air-conditioner.svg',
+    image: 'images/air-conditioner.jpg',
     imageAlt: 'Wall-mounted split-type air conditioner',
     description: 'Energy-saving split-type inverter aircon that cools rooms quickly.',
     details: ['Capacity: 1.5 HP (sample)', 'Inverter, energy saving (sample)', 'Remote control included (sample)']
@@ -71,7 +71,7 @@ const products = [
     name: 'Microwave Oven',
     category: 'Kitchen',
     price: 5490,
-    image: 'images/microwave-oven.svg',
+    image: 'images/microwave-oven.jpg',
     imageAlt: 'Countertop microwave oven',
     description: 'Compact microwave for quick reheating, defrosting and cooking.',
     details: ['Capacity: 20 liters (sample)', '700 W power (sample)', 'Defrost function (sample)']
@@ -81,7 +81,7 @@ const products = [
     name: 'Electric Fan',
     category: 'Cooling',
     price: 1890,
-    image: 'images/electric-fan.svg',
+    image: 'images/electric-fan.jpg',
     imageAlt: 'Stand electric fan',
     description: 'Adjustable stand fan with three speeds and wide oscillation.',
     details: ['16-inch blade (sample)', '3 speed settings (sample)', 'Adjustable height (sample)']
@@ -91,7 +91,7 @@ const products = [
     name: 'Rice Cooker',
     category: 'Kitchen',
     price: 2290,
-    image: 'images/rice-cooker.svg',
+    image: 'images/rice-cooker.jpg',
     imageAlt: 'Electric rice cooker',
     description: 'Easy one-touch rice cooker that keeps rice warm until you eat.',
     details: ['Capacity: 1.8 liters (sample)', 'Keep-warm function (sample)', 'Non-stick inner pot (sample)']
@@ -101,7 +101,7 @@ const products = [
     name: 'Water Dispenser',
     category: 'Kitchen',
     price: 7990,
-    image: 'images/water-dispenser.svg',
+    image: 'images/water-dispenser.jpg',
     imageAlt: 'Hot and cold water dispenser with top bottle',
     description: 'Hot and cold water dispenser with a handy storage cabinet.',
     details: ['Hot and cold taps (sample)', 'Child safety lock on hot tap (sample)', 'Bottom storage cabinet (sample)']
