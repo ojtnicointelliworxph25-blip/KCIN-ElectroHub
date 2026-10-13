@@ -83,7 +83,7 @@ code { background: var(--gray-100); padding: 0.1em 0.4em; border-radius: 4px; fo
 .skip-link {
   position: absolute; left: 1rem; top: -4rem; z-index: 300;
   background: var(--yellow); color: var(--navy-900);
-  padding: 0.6rem 1rem; border-radius: var(--radius-sm); font-weight: 600;
+  padding: 0.6rem 1rem; border-radius: var(--radius); font-weight: 600;
   transition: top 0.2s;
 }
 .skip-link:focus { top: 1rem; }
