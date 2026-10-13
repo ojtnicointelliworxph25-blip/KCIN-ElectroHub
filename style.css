@@ -197,7 +197,7 @@ code { background: var(--gray-100); padding: 0.1em 0.4em; border-radius: 4px; fo
 /* ---------- 7. PRODUCTS ---------- */
 .toolbar { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; margin-bottom: 1rem; }
 
-.search-box { position: relative; flex: 1 1 260px; max-width: 380px; }
+.search-box { position: relative; flex: 1 1 260px; max-width: 200px; }
 .search-box svg { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); color: var(--muted); pointer-events: none; }
 .search-box input {
   width: 100%; padding: 0.75rem 1rem 0.75rem 2.8rem;
