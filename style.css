@@ -231,8 +231,8 @@ code { background: var(--gray-100); padding: 0.1em 0.4em; border-radius: 4px; fo
 }
 .product-card:hover { transform: translateY(-5px); box-shadow: var(--shadow); }
 
-.product-media { background: var(--gray-100); aspect-ratio: 4 / 3; overflow: hidden; }
-.product-media img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.35s ease; }
+.product-media { background: var(--white); aspect-ratio: 4 / 3; overflow: hidden; padding: 0.75rem; box-sizing: border-box; }
+.product-media img { width: 100%; height: 100%; object-fit: contain; transition: transform 0.35s ease; }
 .product-card:hover .product-media img { transform: scale(1.05); }
 
 .product-body { display: flex; flex-direction: column; flex: 1; padding: 1.1rem 1.1rem 1.2rem; }

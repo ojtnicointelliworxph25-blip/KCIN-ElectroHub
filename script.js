@@ -31,7 +31,7 @@ const products = [
     name: 'Refrigerator',
     category: 'Kitchen',
     price: 24990,
-    image: 'images/refrigerator.svg',
+    image: 'images/refrigerator.jpg',
     imageAlt: 'Two-door refrigerator with yellow handles',
     description: 'Two-door inverter refrigerator with generous fresh and freezer space.',
     details: ['Capacity: about 9 cu. ft. (sample)', 'Inverter compressor (sample)', 'Frost-free cooling (sample)']
