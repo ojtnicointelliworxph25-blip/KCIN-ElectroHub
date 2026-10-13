@@ -41,7 +41,7 @@ const products = [
     name: 'Washing Machine',
     category: 'Laundry',
     price: 18490,
-    image: 'images/washing-machine.svg',
+    image: '/workspaces/KCIN-ElectroHub/images/washing-machine.svg',
     imageAlt: 'Front-loading washing machine',
     description: 'Front-load washer with multiple wash programs for everyday laundry.',
     details: ['Capacity: about 8 kg (sample)', 'Multiple wash programs (sample)', 'Quiet motor (sample)']
